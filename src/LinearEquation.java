@@ -8,4 +8,6 @@ public class LinearEquation {
         this.xOne = xOne; this.yOne = yOne;
         this.xTwo = xTwo; this.yTwo = yTwo;
     }
+
+
 }
